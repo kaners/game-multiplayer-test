@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73ef5dbebd79c77409f71ef9ad0b928d, type: 3}
+  m_Name: Room Holder
+  m_EditorClassIdentifier: 
+  roomImages:
+  - {fileID: 21300000, guid: 49517bacc0b05cc49a4b3bf80b0e555c, type: 3}
+  - {fileID: 21300000, guid: 0548ee83131ebc34caee8e9f765ba7dd, type: 3}
+  - {fileID: 21300000, guid: 0d8987b2152599c4891a6f16f229469e, type: 3}
